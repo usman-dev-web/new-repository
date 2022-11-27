@@ -1,2 +1,3 @@
 USMAN RESOLUSI
  - konsisten belajar ngoding 1 jam setiap hari
+ - membuat form login dengan bahasa PHP
